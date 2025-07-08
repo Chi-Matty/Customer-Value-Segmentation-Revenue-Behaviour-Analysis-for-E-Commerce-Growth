@@ -1,2 +1,2 @@
 # E-commerce_Analysis
-Analysed customer transactions using Python to uncover insights through RFM and age group segmentation. Identified top spenders, revenue by age and country, and customer value tiers. Tools: pandas, matplotlib, seaborn.
+This project explores customer purchase behaviour using real-world e-commerce transaction data. I performed RFM (Recency, Frequency, Monetary) analysis to segment customers, and conducted age group segmentation to understand spending patterns across different age brackets and countries. Key insights include top spending age groups, revenue distribution, and customer value tiers. The analysis was done using Python (pandas, matplotlib, seaborn).
