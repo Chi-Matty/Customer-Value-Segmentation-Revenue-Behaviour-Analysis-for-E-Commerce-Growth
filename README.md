@@ -36,3 +36,7 @@ To identify key revenue drivers and perform customer segmentation using RFM anal
 - Launch targeted digital ad campaigns, exclusive discounts, and loyalty perks for Brazil’s 25–44 age group—focusing on social medias, and email to drive conversions and repeat purchases.
 
 - Build on the success of high-performing categories by focusing on clothing in France and books in Canada through targeted marketing and inventory planning. To boost weaker segments, consider product repositioning and limited-time offers to improve the performance of toys in France and beauty products in Canada.
+
+### 📬 Contact
+
+Want to collaborate or discuss this analysis? [mathiasmichael2@gmail.com]
