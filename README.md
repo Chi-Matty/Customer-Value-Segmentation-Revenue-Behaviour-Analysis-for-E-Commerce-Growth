@@ -39,4 +39,6 @@ To identify key revenue drivers and perform customer segmentation using RFM anal
 
 ### 📬 Contact
 
-Want to collaborate or discuss this analysis? [mathiasmichael2@gmail.com]
+Want to collaborate or discuss this analysis? 
+[📧Email][mathiasmichael2@gmail.com]
+[LinkedIn][linkedin.com/in/michael-matty]
