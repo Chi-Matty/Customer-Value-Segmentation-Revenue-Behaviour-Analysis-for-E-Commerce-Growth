@@ -1,6 +1,10 @@
 # E-commerce_Analysis
 This project explores customer purchase behaviour using real-world e-commerce transaction data. I performed RFM (Recency, Frequency, Monetary) analysis to segment customers, and conducted age group segmentation to understand spending patterns across different age brackets and countries. Key insights include top spending age groups, revenue distribution, and customer value tiers. 
 
+### 📊 Visualisation  
+The key findings from this analysis are summarised in an Excel dashboard.  
+👉 [View the dashboard](https://1drv.ms/x/c/c0f0487955994bce/ESE9iSuP0wVPvGAcb-4fvjsBO3Nmc5PlIG0ocoJ5YCjhQg)
+
 ### 🧰 Tools & Technologies
 	•	Python
 	•	pandas
