@@ -1,5 +1,5 @@
 # Customer Value Segmentation & Revenue Behaviour Analysis for E-Commerce Growth
-This project explores customer purchase behaviour using real-world e-commerce transaction data. I performed RFM (Recency, Frequency, Monetary) analysis to segment customers, and conducted age group segmentation to understand spending patterns across different age brackets and countries. Key insights include top spending age groups, revenue distribution, and customer value tiers. 
+This project was done to support strategic decision-making for an e-commerce business with limited customer insights and unclear revenue drivers. I analyzed and transformed 42,992 rows of raw transactional data after taking necessary steps to check for missing values, nulls, outliers, to uncover patterns in purchase behaviour, segment customer value using RFM scoring, and investigate performance across age brackets and countries. The analysis revealed key demographic segments, seasonal trends, and underperforming categories, helping to shape customer targeting, product strategy and retention efforts.
 
 ### 📊 Visualisation  
 The key findings from this analysis are summarised in an Excel dashboard.  
@@ -12,34 +12,41 @@ The key findings from this analysis are summarised in an Excel dashboard.
 	•	seaborn
 	•	Jupyter Notebook
 
-### Objective:
-To identify key revenue drivers and perform customer segmentation using RFM analysis and age brackets, uncovering behavioural patterns in purchasing and spending habits across countries. This analysis also explores product category performance across regions to optimise marketing strategies, improve inventory planning, enhance customer engagement, and ultimately boost sales and retention.
+### 📈 Key Objectives
 
-### 📈 Insights & Recommendations
+- Segment customers based on RFM (Recency, Frequency, Monetary) scores to identify top-value, potential, and low-engagement groups.
 
-#### Insights:
-- Revenue peaked in 2024, marking the highest in three years — driven by strong performance in January. This early-year trend continued in January 2025. In contrast, July was the top month in 2023, indicating a shift from mid-year to early-year demand and a possible change in customer behaviour or market dynamics.
+- Analyze revenue contributions by age group, country, and product category.
 
-- RFM analysis revealed that 40% of customers are top performers with high loyalty and spending.
+- Detect seasonal trends and changes in revenue timing from 2023 to 2025.
 
-- 45% are potential customers with moderate engagement, offering strong growth opportunities.
-  
-- The 25–44 age group accounted for 39% of purchases and led revenue generation, largely driven by book sales.
-  
-- In Brazil, customers aged 25–44 outspent all other age groups — both within the country and across other countries — making them the most valuable demographic segment.
+- Recommend actionable strategies based on findings to increase loyalty and revenue.
 
-- France led in revenue, with clothing as its top category; toys underperformed. Canada had the most customers, with books driving sales and beauty products seeing the least engagement.
+### 📊 Key Insights
 
-#### Recommendations:
-- Leverage the early-year demand trend by launching targeted campaigns and promotions in Q1, while reviewing past mid-year strategies to understand and adapt to changing customer behaviour.
+- RFM analysis revealed that 40% of customers are top performers with strong loyalty and consistent high spend.
 
-- Prioritise top customers with loyalty rewards and personalised offers to sustain retention.
+- The 25–44 age group led revenue generation, particularly in Brazil, with a focus on books.
 
-- Target potential customers with tailored promotions to boost their frequency and spending.
+- France topped revenue, driven by clothing sales, while Canada had the most customers (books drove the highest sales and customer interest, while beauty products saw the lowest engagement across both metrics).
 
-- Launch targeted digital ad campaigns, exclusive discounts, and loyalty perks for Brazil’s 25–44 age group—focusing on social medias, and email to drive conversions and repeat purchases.
+- Revenue peaked in January 2024 and January 2025, signalling a shift from mid-year (July 2023) to early-year demand.
 
-- Build on the success of high-performing categories by focusing on clothing in France and books in Canada through targeted marketing and inventory planning. To boost weaker segments, consider product repositioning and limited-time offers to improve the performance of toys in France and beauty products in Canada.
+- Payment method preference showed significant skew, suggesting opportunities for promotional alignment.
+
+####  Recommendations
+
+- Launch Q1-focused campaigns to capitalise on early-year demand.
+
+- Reward top customers with loyalty incentives; re-target potential customers with frequency boosters.
+
+- Focus on Brazil’s 25–44 demographic using digital ads and email marketing.
+
+- Expand high-performing product categories (clothing in France, books in Canada) and re-evaluate low-performing ones.
+
+- Use refined customer segmentation to personalise offers and reduce churn.
+
+⸻
 
 ### 📬 Contact
 
