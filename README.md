@@ -49,15 +49,15 @@ This project was done to support strategic decision-making for an e-commerce bus
 
 Data validation (inconsistencies, redundancies, missing values, nulls, outliers), RFM segmentation, customer binning, pivot analysis, correlation heatmaps, Excel reporting, and dashboard creation.
 
-###📁 Deliverables
+### 📁 Deliverables
 
-📊 Excel workbook with dashboards and structured reports (RFM scores, ARPU, trends)
+	📊 Excel workbook with dashboards and structured reports (RFM scores, ARPU, trends)
 
-📓 Jupyter Notebook for end-to-end analysis
+	📓 Jupyter Notebook for end-to-end analysis
 
-📈 Visual summaries: product/category revenue, customer breakdown, age vs country heatmaps
+	📈 Visual summaries: product/category revenue, customer breakdown, age vs country heatmaps
 	
-🧮 Correlation analysis (recency, frequency, age, revenue)
+	🧮 Correlation analysis (recency, frequency, age, revenue)
 
 ### 📊 Visualisation  
 The key findings from this analysis are summarised in an Excel dashboard.  
