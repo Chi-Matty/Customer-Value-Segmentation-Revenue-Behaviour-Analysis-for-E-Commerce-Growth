@@ -1,17 +1,6 @@
 # Customer Value Segmentation & Revenue Behaviour Analysis for E-Commerce Growth
 This project was done to support strategic decision-making for an e-commerce business with limited customer insights and unclear revenue drivers. I analyzed and transformed 42,992 rows of raw transactional data after taking necessary steps to check for missing values, nulls, outliers, to uncover patterns in purchase behaviour, segment customer value using RFM scoring, and investigate performance across age brackets and countries. The analysis revealed key demographic segments, seasonal trends, and underperforming categories, helping to shape customer targeting, product strategy and retention efforts.
 
-### 📊 Visualisation  
-The key findings from this analysis are summarised in an Excel dashboard.  
-👉 [View the dashboard](https://1drv.ms/x/c/c0f0487955994bce/ESE9iSuP0wVPvGAcb-4fvjsBO3Nmc5PlIG0ocoJ5YCjhQg)
-
-### 🧰 Tools & Technologies
-	•	Python
-	•	pandas
-	•	matplotlib
-	•	seaborn
-	•	Jupyter Notebook
-
 ### 📈 Key Objectives
 
 - Segment customers based on RFM (Recency, Frequency, Monetary) scores to identify top-value, potential, and low-engagement groups.
@@ -47,6 +36,32 @@ The key findings from this analysis are summarised in an Excel dashboard.
 - Use refined customer segmentation to personalise offers and reduce churn.
 
 ⸻
+
+### 🧰 Tools & Technologies
+
+	• Python: pandas, matplotlib, seaborn
+	
+	• Excel: Dashboards for non-technical stakeholders
+	
+	• Jupyter Notebook: Full analysis pipeline and data transformation
+
+### Techniques:
+
+Data validation (inconsistencies, redundancies, missing values, nulls, outliers), RFM segmentation, customer binning, pivot analysis, correlation heatmaps, Excel reporting, and dashboard creation.
+
+###📁 Deliverables
+
+📊 Excel workbook with dashboards and structured reports (RFM scores, ARPU, trends)
+
+📓 Jupyter Notebook for end-to-end analysis
+
+📈 Visual summaries: product/category revenue, customer breakdown, age vs country heatmaps
+	
+🧮 Correlation analysis (recency, frequency, age, revenue)
+
+### 📊 Visualisation  
+The key findings from this analysis are summarised in an Excel dashboard.  
+👉 [View the dashboard](https://1drv.ms/x/c/c0f0487955994bce/ESE9iSuP0wVPvGAcb-4fvjsBO3Nmc5PlIG0ocoJ5YCjhQg)
 
 ### 📬 Contact
 
