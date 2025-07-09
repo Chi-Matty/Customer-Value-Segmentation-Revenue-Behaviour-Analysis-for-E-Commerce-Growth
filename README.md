@@ -1,4 +1,4 @@
-# E-commerce_Analysis
+# Customer Value Segmentation & Revenue Behaviour Analysis for E-Commerce Growth
 This project explores customer purchase behaviour using real-world e-commerce transaction data. I performed RFM (Recency, Frequency, Monetary) analysis to segment customers, and conducted age group segmentation to understand spending patterns across different age brackets and countries. Key insights include top spending age groups, revenue distribution, and customer value tiers. 
 
 ### 📊 Visualisation  
