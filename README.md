@@ -15,9 +15,9 @@ This project was done to support strategic decision-making for an e-commerce bus
 
 - RFM analysis revealed that 40% of customers are top performers with strong loyalty and consistent high spend.
 
-- The 25–44 age group led revenue generation, particularly in Brazil.
+- In Brazil, customers aged 25–44 outspent all other age groups, both within the country and across other countries, making them the most valuable demographic segment.
 
-- Across all countries, the 25–44 age group made the most frequent purchases and generated the highest revenue. Deeper analysis reveals that their spending and purchase frequency were primarily driven by book purchases, making them the most valuable demographic segment.
+- Further analysis shows their high spending and purchase frequency were primarily driven by book purchases.
 
 - Books generated the highest overall revenue, while beauty products contributed the least. France led in total revenue, with clothing as the top-performing category, indicating high spending on clothes. In contrast, toys underperformed. In Canada, books drove the highest sales and customer interest, while beauty products had the lowest engagement.
 
@@ -29,9 +29,9 @@ This project was done to support strategic decision-making for an e-commerce bus
 
 - Launch Q1-focused campaigns to capitalise on early-year demand.
 
-- Reward top customers with loyalty incentives; re-target potential customers with frequency boosters.
+- Launch targeted digital ad campaigns, exclusive discounts, and loyalty perks for Brazil’s 25–44 age group, focusing on social media and email to drive conversions and repeat purchases.
 
-- Focus on Brazil’s 25–44 demographic using digital ads and email marketing.
+- Promote books specifically to the 25–44 demographic through personalised offers and ads on high-traffic platforms to sustain engagement and maximise revenue growth.
 
 - Expand high-performing product categories (clothing in France, books in Canada) and re-evaluate low-performing ones.
 
