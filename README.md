@@ -15,9 +15,11 @@ This project was done to support strategic decision-making for an e-commerce bus
 
 - RFM analysis revealed that 40% of customers are top performers with strong loyalty and consistent high spend.
 
-- The 25–44 age group led revenue generation, particularly in Brazil, with a focus on books.
+- The 25–44 age group led revenue generation, particularly in Brazil.
 
-- France topped revenue, driven by clothing sales, while Canada had the most customers (books drove the highest sales and customer interest, while beauty products saw the lowest engagement across both metrics).
+- Across all countries, the 25–44 age group made the most frequent purchases and generated the highest revenue. Deeper analysis reveals that their spending and purchase frequency were primarily driven by book purchases, making them the most valuable demographic segment.
+
+- Books generated the highest overall revenue, while beauty products contributed the least. France led in total revenue, with clothing as the top-performing category, indicating high spending on clothes. In contrast, toys underperformed. In Canada, books drove the highest sales and customer interest, while beauty products had the lowest engagement.
 
 - Revenue peaked in January 2024 and January 2025, signalling a shift from mid-year (July 2023) to early-year demand.
 
