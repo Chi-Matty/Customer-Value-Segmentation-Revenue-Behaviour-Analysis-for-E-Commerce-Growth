@@ -37,6 +37,8 @@ This project was done to support strategic decision-making for an e-commerce bus
 
 - Use refined customer segmentation to personalise offers and reduce churn.
 
+- Most customers prefer to pay with cash when the item is delivered, rather than using digital methods like cards or transfers. This may mean they don’t fully trust the online payment system or find it hard to use.
+
 ⸻
 
 ### 🧰 Tools & Technologies
