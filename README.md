@@ -1,4 +1,6 @@
 # Customer Value Segmentation & Revenue Behaviour Analysis for E-Commerce Growth
+
+## Executive Summary
 This project was done to support strategic decision-making for an e-commerce business with limited customer insights and unclear revenue drivers. I analyzed and transformed 42,992 rows of raw transactional data after taking necessary steps to check for missing values, nulls, outliers, to uncover patterns in purchase behaviour, segment customer value using RFM scoring, and investigate performance across age brackets and countries. The analysis revealed key demographic segments, seasonal trends, and underperforming categories, helping to shape customer targeting, product strategy and retention efforts.
 
 ### 📈 Key Objectives
