@@ -16,11 +16,13 @@ This project was done to support strategic decision-making for an e-commerce bus
 ### 📊 Key Insights
 
 <img width="1766" height="1163" alt="image" src="https://github.com/user-attachments/assets/e43e7a47-2d31-413b-807d-55c0672cb52a" />
+
 - RFM analysis revealed that 40% of customers are top performers with strong loyalty and consistent high spend.
 
 <img width="3266" height="2066" alt="image" src="https://github.com/user-attachments/assets/11cfd2ee-7e0b-4a77-89d4-1343699ac6a9" />
 
 <img width="1886" height="1406" alt="image" src="https://github.com/user-attachments/assets/1447ba72-8f43-473d-917f-710db9ec74ee" />
+
 - In Brazil, customers aged 25–44 outspent all other age groups, both within the country and across other countries, making them the most valuable demographic segment.
 
 - Further analysis shows their high spending and purchase frequency were primarily driven by book purchases.
